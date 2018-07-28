@@ -11,17 +11,3 @@ Section: Anemone
 Description: Kullanmış olduğunuz font'a gölge eklemeye yarar.Anemone ile kullanılması gerekir :)
 Author: volcy123 <volkan_akgul@windowslive.com>
 Name: FontShadow
-
-Package: com.sull.classicdockxi
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: volcy123 <volkan_akgul@windowslive.com>
-Filename: /debs/ClassicDock.deb
-Size: 338
-MD5sum: 15A38BD5FDC20113F3BA2535A4AEC056
-SHA1: 37E29B77CF8D4B7FF496922A26DBC22AA12C77F4
-SHA256: 5617318F54E19EE7C02317C68D9DBDE9965A70A3693E0C2A50B2E64E2BA98529
-Section: Anemone
-Description: iOS11 için uyarlanmış ClassicDock.Anemone ile kullanılması gerekir :)
-Author: volcy123 <volkan_akgul@windowslive.com>
-Name: ClassicDockXI
