@@ -12,8 +12,6 @@ Description: Kullanmış olduğunuz font'a gölge eklemeye yarar.Anemone ile kul
 Author: volcy123 <volkan_akgul@windowslive.com>
 Name: FontShadow
 
-
-
 Package: com.sull.classicdockxi
 Version: 0.0.1
 Architecture: iphoneos-arm
