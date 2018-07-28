@@ -2,7 +2,7 @@ Package: com.sull.fontshadow
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: volcy123 <volkan_akgul@windowslive.com>
-Filename: /debs/FontShadow.deb
+Filename: debs/FontShadow.deb
 Size: 1078
 MD5sum: 0E0A60D0C737F711A9633D76CBAE815A
 SHA1: FC7CC449E255A0E120E44EAD853635EA93FE2E64
