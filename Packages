@@ -5,11 +5,8 @@ Maintainer: volcy123 <volkan_akgul@windowslive.com>
 Architecture: iphoneos-arm
 Filename: ./debs/FontShadow.deb
 Size: 1078
-MD5sum: 0E0A60D0C737F711A9633D76CBAE815A
-SHA1: FC7CC449E255A0E120E44EAD853635EA93FE2E64
-SHA256: 8282E24723CB16FBA5CE23C9A33A04C8C13CC4228C8A9ED570C7A56DF86999F9
-SHA512: 6513A94E6C9FDC85592BFD8DC042C4DF054A7529CEC20E6D114739367CB714A052C4FE5950CF6BBA8348625E74E996E5AE3D0A7DF6DE65EB0131AFC3D7DF1640
-Description: ullanmış olduğunuz font'a gölge eklemeye yarar.Anemone ile kullanılması gerekir :)
+MD5sum: CA226B678CD7481C8B6A0206FAE11D33
+Description: Kullanmış olduğunuz font'a gölge eklemeye yarar.Anemone ile kullanılması gerekir :)
 Name: FontShadowXI
 Author: volcy123 <volkan_akgul@windowslive.com>
 
@@ -22,8 +19,6 @@ Architecture: iphoneos-arm
 Filename: ./debs/ClassicDock.deb
 Size: 346310
 MD5sum: 15A38BD5FDC20113F3BA2535A4AEC056
-SHA1: <sha1 hash of deb>
-SHA256: <sha256 of deb>
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: ClassicDockXI
 Author: volcy123 <volkan_akgul@windowslive.com>
