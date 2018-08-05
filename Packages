@@ -18,9 +18,20 @@ Maintainer: volcy123 <volkan_akgul@windowslive.com>
 Architecture: iphoneos-arm
 Filename: ./debs/ClassicDock.deb
 Size: 346310
-MD5sum: 15A38BD5FDC20113F3BA2535A4AEC056
-Description: This is a sample old package. Firmware should be lower than 7.0
+MD5sum: 15a38bd5fdc20113f3ba2535a4aec056
+Description: iOS 11 için ClassicDock.Anemone ile kullanılması gerekir :)
 Name: ClassicDockXI
 Author: volcy123 <volkan_akgul@windowslive.com>
 
+Package: com.volcy123.classicios
+Version: 1.0.0-0
+Section: Themes
+Maintainer: volcy123 <volkan_akgul@windowslive.com>
+Architecture: iphoneos-arm
+Filename: ./debs/Classic iOS edited by volcy123.deb
+Size: 12497738
+MD5sum: dc1e1e74a29dbc0381bf0e57696a25a8
+Description: Axel4'ün yapmış olduğu ve benim editlediğim iOS 6 teması sizlerle :)
+Name: Classic iOS edited by volcy123
+Author: volcy123 <volkan_akgul@windowslive.com>
 
