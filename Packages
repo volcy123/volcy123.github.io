@@ -35,3 +35,15 @@ Description: Axel4'ün yapmış olduğu ve benim editlediğim iOS 6 teması sizl
 Name: Classic iOS edited by volcy123
 Author: volcy123 <volkan_akgul@windowslive.com>
 
+Package: com.volcy123.metallicdock
+Name: MetallicDock
+Version: 1.0
+Section: Anemone
+Maintainer: volcy123 <volkan_akgul@windowslive.com>
+Architecture: iphoneos-arm
+Filename: ./debs/MetallicDock.deb
+Size: 535388
+MD5sum: 102e22410b406f8860c14568a02e5d6f
+Description: AppleiDesigner'ın yapmış olduğu konsept çalışmasından esinlenerek yapılmıştır. :) 
+Author: volcy123 <volkan_akgul@windowslive.com>
+
