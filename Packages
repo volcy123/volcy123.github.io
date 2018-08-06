@@ -42,8 +42,8 @@ Section: Anemone
 Maintainer: volcy123 <volkan_akgul@windowslive.com>
 Architecture: iphoneos-arm
 Filename: ./debs/MetallicDock.deb
-Size: 535388
-MD5sum: 102e22410b406f8860c14568a02e5d6f
+Size: 535376
+MD5sum: 324a64be6b4302f9984d3c2e4c87d7f3
 Description: AppleiDesigner'ın yapmış olduğu konsept çalışmasından esinlenerek yapılmıştır. :) 
 Author: volcy123 <volkan_akgul@windowslive.com>
 
