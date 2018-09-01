@@ -1,1 +1,0 @@
-bash -c "cd /mnt/c/Users/VOLKAN/Documents/volcy123.github.io; ./update.sh; ./last_updates.sh"

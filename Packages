@@ -1,0 +1,13 @@
+Package: com.sull.fontshadow
+Architecture: iphoneos-arm
+Version: 0.2~beta1
+Section: Tweaks
+Maintainer: volcy123
+Filename: ./debs/FontShadow.deb
+Size: 1078
+MD5sum: 0e0a60d0c737f711a9633d76cbae815a
+Homepage: http://twitter.com/vlknakgl
+Description: Kullanmakta olduğunuz font'a gölge eklemeye yarar.Anemone ile uygulanması gerekir :)
+Name: FontShadowXI
+Author: volcy123
+Depiction: http://volcy123.github.io/description.html?id=com.sull.fontshadow
