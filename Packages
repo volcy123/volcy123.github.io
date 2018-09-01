@@ -25,3 +25,17 @@ Description: AppleiDesigner'in konsept dizaynından esinlenerek yapmış olduğu
 Name: MetallicDock
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.sull.metallicdock
+
+Package: com.sull.classicdockxi
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Dock
+Maintainer: volcy123
+Filename: ./debs/ClassicDock.deb
+Size: 346310
+MD5sum: 15a38bd5fdc20113f3ba2535a4aec056
+Homepage: http://twitter.com/vlknakgl
+Description: Klasik ios 6 dock'u sizlerle.Anemone ile uygulanması gerekir :)
+Name: ClassicDockXI
+Author: volcy123
+Depiction: http://volcy123.github.io/description.html?id=com.sull.classicdockxi
