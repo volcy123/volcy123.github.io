@@ -11,3 +11,17 @@ Description: Kullanmakta olduğunuz font'a gölge eklemeye yarar.Anemone ile uyg
 Name: FontShadowXI
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.sull.fontshadow
+
+Package: com.sull.metallicdock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Dock
+Maintainer: volcy123
+Filename: ./debs/MetallicDock.deb
+Size: 535376d
+MD5sum: 324a64be6b4302f9984d3c2e4c87d7f3
+Homepage: http://twitter.com/vlknakgl
+Description: AppleiDesigner'in konsept dizaynından esinlenerek yapmış olduğum metalik dock teması.Anemone ile uygulanması gerekir :)
+Name: MetallicDock
+Author: volcy123
+Depiction: http://volcy123.github.io/description.html?id=com.sull.metallicdock
