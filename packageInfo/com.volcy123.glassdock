@@ -1,0 +1,9 @@
+{
+	"name": "GlassDock",
+	"desc_short": "GlassDock",
+	"desc_long": "Cam görünümlü şeffaf bir dock teması.Anemone ile uygulanması gerekir :)",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.hizliresim.com/3zVnr0.jpg' target='_blank'><img width=95% src='https://i.hizliresim.com/3zVnr0.jpg'/></a><br></div>",
+	"open": true,
+}

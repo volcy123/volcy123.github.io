@@ -67,3 +67,17 @@ Description: Iphone 4'ün kendisi ile oluşturduğum bir dock teması.Anemone il
 Name: Iphone4Dock
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.volcy123.iphone4dock
+
+Package: com.volcy123.glassdock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Dock
+Maintainer: volcy123
+Filename: ./debs/GlassDock.deb
+Size: 6990
+MD5sum: 851bc6be1206d92ff2f59c36b0dfa536
+Homepage: http://twitter.com/vlknakgl
+Description: Cam görünümlü şeffaf bir dock teması.Anemone ile uygulanması gerekir :)
+Name: GlassDock
+Author: volcy123
+Depiction: http://volcy123.github.io/description.html?id=com.volcy123.glassdock
