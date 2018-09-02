@@ -1,0 +1,9 @@
+{
+	"name": "Iphone4Dock",
+	"desc_short": "Iphone4Dock",
+	"desc_long": "Iphone 4'ün kendisi ile oluşturduğum bir dock teması.Anemone ile uygulanması gerekir :)",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.hizliresim.com/0zZaWV.png' target='_blank'><img width=95% src='https://i.hizliresim.com/0zZaWV.png'/></a><br></div>",
+	"open": true,
+}

@@ -53,3 +53,17 @@ Description: Axel4 tarafından yapılan ve benim editlediğim klasik iOS6 temas�
 Name: Classic iOS edited by volcy123
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.volcy123.classicios
+
+Package: com.volcy123.iphone4dock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Dock
+Maintainer: volcy123
+Filename: ./debs/Iphone4Dock.deb
+Size: 72316
+MD5sum: 96a29a5d7ba6e6593f697e14795bec22
+Homepage: http://twitter.com/vlknakgl
+Description: Iphone 4'ün kendisi ile oluşturduğum bir dock teması.Anemone ile uygulanması gerekir :)
+Name: Iphone4Dock
+Author: volcy123
+Depiction: http://volcy123.github.io/description.html?id=com.volcy123.ciphone4dock
