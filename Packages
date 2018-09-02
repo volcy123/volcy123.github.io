@@ -1,4 +1,4 @@
-Package: com.sull.fontshadow
+Package: com.volcy123.fontshadow
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
@@ -12,7 +12,7 @@ Name: FontShadowXI
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.sull.fontshadow
 
-Package: com.sull.metallicdock
+Package: com.volcy123.metallicdock
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Dock
@@ -26,7 +26,7 @@ Name: MetallicDock
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.sull.metallicdock
 
-Package: com.sull.classicdockxi
+Package: com.volcy123.classicdockxi
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Dock
@@ -39,3 +39,17 @@ Description: Klasik ios 6 dock'u sizlerle.Anemone ile uygulanması gerekir :)
 Name: ClassicDockXI
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.sull.classicdockxi
+
+Package: com.volcy123.classicios
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: volcy123
+Filename: ./debs/Classic iOS edited by volcy123.deb
+Size: 12497738
+MD5sum: dc1e1e74a29dbc0381bf0e57696a25a8
+Homepage: http://twitter.com/vlknakgl
+Description: Axel4 tarafından yapılan ve benim editlediğim klasik iOS6 teması sizlerle.Anemone ile uygulanması gerekir :)
+Name: Classic iOS edited by volcy123
+Author: volcy123
+Depiction: http://volcy123.github.io/description.html?id=com.volcy123.classicios
