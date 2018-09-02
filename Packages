@@ -1,4 +1,4 @@
-Package: com.volcy123.fontshadow
+Package: com.sull.fontshadow
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
@@ -12,7 +12,7 @@ Name: FontShadowXI
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.sull.fontshadow
 
-Package: com.volcy123.metallicdock
+Package: com.sull.metallicdock
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Dock
@@ -26,7 +26,7 @@ Name: MetallicDock
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.sull.metallicdock
 
-Package: com.volcy123.classicdockxi
+Package: com.sull.classicdockxi
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Dock
@@ -40,7 +40,7 @@ Name: ClassicDockXI
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.sull.classicdockxi
 
-Package: com.volcy123.classicios
+Package: com.sull.classicios
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Themes
