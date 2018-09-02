@@ -10,7 +10,7 @@ Homepage: http://twitter.com/vlknakgl
 Description: Kullanmakta olduğunuz font'a gölge eklemeye yarar.Anemone ile uygulanması gerekir :)
 Name: FontShadowXI
 Author: volcy123
-Depiction: http://volcy123.github.io/description.html?id=com.sull.fontshadow
+Depiction: http://volcy123.github.io/description.html?id=com.volcy123.fontshadow
 
 Package: com.sull.metallicdock
 Architecture: iphoneos-arm
@@ -24,7 +24,7 @@ Homepage: http://twitter.com/vlknakgl
 Description: AppleiDesigner'in konsept dizaynından esinlenerek yapmış olduğum metalik dock teması.Anemone ile uygulanması gerekir :)
 Name: MetallicDock
 Author: volcy123
-Depiction: http://volcy123.github.io/description.html?id=com.sull.metallicdock
+Depiction: http://volcy123.github.io/description.html?id=com.volcy123.metallicdock
 
 Package: com.sull.classicdockxi
 Architecture: iphoneos-arm
@@ -38,7 +38,7 @@ Homepage: http://twitter.com/vlknakgl
 Description: Klasik ios 6 dock'u sizlerle.Anemone ile uygulanması gerekir :)
 Name: ClassicDockXI
 Author: volcy123
-Depiction: http://volcy123.github.io/description.html?id=com.sull.classicdockxi
+Depiction: http://volcy123.github.io/description.html?id=com.volcy123.classicdockxi
 
 Package: com.sull.classicios
 Architecture: iphoneos-arm
@@ -66,4 +66,4 @@ Homepage: http://twitter.com/vlknakgl
 Description: Iphone 4'ün kendisi ile oluşturduğum bir dock teması.Anemone ile uygulanması gerekir :)
 Name: Iphone4Dock
 Author: volcy123
-Depiction: http://volcy123.github.io/description.html?id=com.volcy123.ciphone4dock
+Depiction: http://volcy123.github.io/description.html?id=com.volcy123.iphone4dock
