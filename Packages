@@ -81,3 +81,17 @@ Description: Cam görünümlü şeffaf bir dock teması.Anemone ile uygulanması
 Name: GlassDock
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.volcy123.glassdock
+
+Package: com.volcy123.glassdock2
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Dock
+Maintainer: volcy123
+Filename: ./debs/GlassDock 2.deb
+Size: 13440
+MD5sum: 8b07680e47429a9478e96faca6edb368
+Homepage: http://twitter.com/vlknakgl
+Description: New version of GlassDock.Apply with Snowboard :)
+Name: GlassDock 2
+Author: volcy123
+Depiction: http://volcy123.github.io/description.html?id=com.volcy123.glassdock2
