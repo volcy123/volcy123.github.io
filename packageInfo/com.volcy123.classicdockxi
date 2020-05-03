@@ -1,8 +1,8 @@
 {
 	"name": ";ClassicDockXI",
 	"desc_short": "ClassicDockXI",
-	"desc_long": "Klasik ios 6 dock'u sizlerle.Anemone ile uygulanması gerekir :)",
-	"compatitle": "iOS 11",
+	"desc_long": "I bring ClassicDock from legacy iOS 6 to you.Apply with Snowboard or iThemer :)",
+	"compatitle": "iOS 11-13",
 	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='https://i.hizliresim.com/moDaRP.jpg' target='_blank'><img width=95% src='https://i.hizliresim.com/moDaRP.jpg'/></a><br></div>",
 	"open": true,
