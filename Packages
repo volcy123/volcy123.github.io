@@ -1,4 +1,4 @@
-Package: com.sull.fontshadow
+Package: com.volcy123.fontshadow
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
@@ -7,26 +7,13 @@ Filename: ./debs/FontShadow.deb
 Size: 1078
 MD5sum: 0e0a60d0c737f711a9633d76cbae815a
 Homepage: http://twitter.com/vlknakgl
-Description: Kullanmakta olduğunuz font'a gölge eklemeye yarar.Anemone ile uygulanması gerekir :)
+Description: Used to add shadow to the font you are using.Apply with Snowboard or iThemer :)
 Name: FontShadowXI
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.volcy123.fontshadow
 
-Package: com.sull.metallicdock
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Dock
-Maintainer: volcy123
-Filename: ./debs/MetallicDock.deb
-Size: 535376d
-MD5sum: 324a64be6b4302f9984d3c2e4c87d7f3
-Homepage: http://twitter.com/vlknakgl
-Description: AppleiDesigner'in konsept dizaynından esinlenerek yapmış olduğum metalik dock teması.Anemone ile uygulanması gerekir :)
-Name: MetallicDock
-Author: volcy123
-Depiction: http://volcy123.github.io/description.html?id=com.volcy123.metallicdock
 
-Package: com.sull.classicdockxi
+Package: com.volcy123.classicdockxi
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Dock
@@ -40,7 +27,7 @@ Name: ClassicDockXI
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.volcy123.classicdockxi
 
-Package: com.sull.classicios
+Package: com.volcy123.classicios
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Themes
@@ -68,30 +55,5 @@ Name: Iphone4Dock
 Author: volcy123
 Depiction: http://volcy123.github.io/description.html?id=com.volcy123.iphone4dock
 
-Package: com.volcy123.glassdock
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Dock
-Maintainer: volcy123
-Filename: ./debs/GlassDock.deb
-Size: 6990
-MD5sum: 851bc6be1206d92ff2f59c36b0dfa536
-Homepage: http://twitter.com/vlknakgl
-Description: Cam görünümlü şeffaf bir dock teması.Anemone ile uygulanması gerekir :)
-Name: GlassDock
-Author: volcy123
-Depiction: http://volcy123.github.io/description.html?id=com.volcy123.glassdock
 
-Package: com.volcy123.glassdock2
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Dock
-Maintainer: volcy123
-Filename: ./debs/GlassDock 2.deb
-Size: 13442
-MD5sum: f287f8934f278768d66039e3816c305d
-Homepage: http://twitter.com/vlknakgl
-Description: New version of GlassDock.Apply with Snowboard or iThemer :)
-Name: GlassDock 2
-Author: volcy123
-Depiction: http://volcy123.github.io/description.html?id=com.volcy123.glassdock2
+
