@@ -1,9 +1,0 @@
-{
-	"name": "FontShadowXI",
-	"desc_short": "FontShadowXI",
-	"desc_long": "Used to add shadow to the font you are using.Apply with Snowboard or iThemer :)",
-	"compatitle": "iOS 11-13",
-	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
-	"screenshot": "<div style='text-align:center;'><a href='https://i.hizliresim.com/b60Rom.jpg' target='_blank'><img width=95% src='https://i.hizliresim.com/b60Rom.jpg'/></a><br></div>",
-	"open": true,
-}
