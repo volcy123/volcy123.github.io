@@ -1,0 +1,17 @@
+Package: com.volcy123.iphonedock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: volcy123 <v.akgul60@gmail.com>
+Depends: mobilesubstrate
+Filename: volcy123.github.io/debs/iphonedock.deb
+Size: 73436
+MD5sum: 5520a6fdc3cda16f6c2f42ad131acba6
+SHA1: c8606e1efbfe440ffcbb3153a7d688e5e5028ba9
+SHA256: 1847e125aa5514a84045a161cbcda4d7dc23b0ca71219a24efd434813726b6de
+Section: Tweaks
+Description: A dock made with iphone itself.Apply with Snowboard or iThemer.
+Author: volcy123 <v.akgul60@gmail.com>
+Depiction: https://volcy123.github.io/description.html?id=com.volcy123.iphonedock
+Name: Iphone Dock
+
+
