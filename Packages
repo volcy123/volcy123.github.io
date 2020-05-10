@@ -1,0 +1,56 @@
+Package: com.volcy123.fontshadow
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: volcy123
+Filename: ./debs/FontShadow.deb
+Size: 1078
+MD5sum: 0e0a60d0c737f711a9633d76cbae815a
+Homepage: http://twitter.com/vlknakgl
+Description: Used to add shadow to the font you are using.Apply with Snowboard or iThemer :)
+Name: FontShadowXI
+Author: volcy123
+Depiction: https://volcy123.github.io/description.html?id=com.volcy123.fontshadow
+
+Package: com.volcy123.classicdockxi
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Dock
+Maintainer: volcy123
+Filename: ./debs/ClassicDock.deb
+Size: 346310
+MD5sum: 15a38bd5fdc20113f3ba2535a4aec056
+Homepage: http://twitter.com/vlknakgl
+Description: Klasik ios 6 dock'u sizlerle.Anemone ile uygulanması gerekir :)
+Name: ClassicDockXI
+Author: volcy123
+Depiction: https://volcy123.github.io/description.html?id=com.volcy123.classicdockxi
+
+Package: com.volcy123.classicios
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: volcy123
+Filename: ./debs/Classic iOS edited by volcy123.deb
+Size: 12497738
+MD5sum: dc1e1e74a29dbc0381bf0e57696a25a8
+Homepage: http://twitter.com/vlknakgl
+Description: Classic iOS theme from Axel4, edited by me.Apply with Snowboard or iThemer :)
+Name: Classic iOS edited by volcy123
+Author: volcy123
+Depiction: https://volcy123.github.io/description.html?id=com.volcy123.classicios
+
+Package: com.volcy123.iphonedock
+Name: Iphone Dock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: a Dock made with iphone itself.Apply with Snowboard or iThemer :)
+Maintainer: volcy123
+Author: volcy123
+Section: Dock
+Filename: ./debs/IphoneDock.deb
+Size: 73436
+MD5sum: 5520a6fdc3cda16f6c2f42ad131acba6
+Sha1: c8606e1efbfe440ffcbb3153a7d688e5e5028ba9
+Sha256: 1847e125aa5514a84045a161cbcda4d7dc23b0ca71219a24efd434813726b6de
+Depiction: https://volcy123.github.io/description.html?id=com.volcy123.iphonedock
