@@ -1,0 +1,79 @@
+Package: com.volcy123.iphonedock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: volcy123 <v.akgul60@gmail.com>
+Depends: mobilesubstrate
+Filename: volcy123.github.io/debs/iphonedock.deb
+Size: 73436
+MD5sum: 5520a6fdc3cda16f6c2f42ad131acba6
+SHA1: c8606e1efbfe440ffcbb3153a7d688e5e5028ba9
+SHA256: 1847e125aa5514a84045a161cbcda4d7dc23b0ca71219a24efd434813726b6de
+Section: Tweaks
+Description: A dock made with iphone itself.Apply with Snowboard or iThemer.
+Author: volcy123 <v.akgul60@gmail.com>
+Depiction: http://volcy123.github.io/depictions/com.volcy123.iphonedock/index.html
+Name: Iphone Dock
+
+Package: com.volcy123.classicios
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: volcy123 <v.akgul60@gmail.com>
+Depends: mobilesubstrate
+Filename: volcy123.github.io/debs/classicioseditedbyvolcy123.deb
+Size: 13686454
+MD5sum: 06ce4134de7034ba00b0bfede5919354
+SHA1: 6fad377d5885a10d7a24fface1e19c348fb84aff
+SHA256: 4300daf39903b8e67dfec5e6deb6948a5ac23ad79f9a75cc5f36dccc19747505
+Section: Themes
+Description: Axel4's classic ios theme edited by me.Apply with Snowboard or iThemer :)
+Author: volcy123 <v.akgul60@gmail.com>
+Depiction: http://volcy123.github.io/depictions/com.volcy123.classicioseditedbyvolcy123/index.html
+Name: Classic iOS edited by volcy123
+
+Package: com.volcy123.blueglassdock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: volcy123 <v.akgul60@gmail.com>
+Depends: mobilesubstrate
+Filename: volcy123.github.io/debs/blueglassdock.deb
+Size: 20628
+MD5sum: 893792392704b179ca38994d0fc85c8d
+SHA1: 0979651af5492c150570ade65162d31fb439e722
+SHA256: 24a293e38133ae4f5ad2eec26d0cc5a11dc5baa48bed878ee2640b769fa4ab3e
+Section: Tweaks
+Description: Blue met with glass.Apply with Snowboard or iThemer :)
+Author: volcy123 <v.akgul60@gmail.com>
+Depiction: http://volcy123.github.io/depictions/com.volcy123.blueglassdock/index.html
+Name: BlueGlass Dock
+
+Package: com.volcy123.fontshadow
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: volcy123 <v.akgul60@gmail.com>
+Depends: mobilesubstrate
+Filename: volcy123.github.io/debs/fontshadow.deb
+Size: 1096
+MD5sum: c38708a7f86a6be95105fae3333aea48
+SHA1: f642bdb5a9d0e0cf8da7005b326a7afb81610227
+SHA256: 802d0f7879ac405a61a600e52c601119f656bcd3d323614ec8179978a07bb2a9
+Section: Tweaks
+Description: You can add shadow to icon labels.Apply with Snowboard or iThemer :)
+Author: volcy123 <v.akgul60@gmail.com>
+Depiction: http://volcy123.github.io/depictions/com.volcy123.fontshadow/index.html
+Name: FontShadow
+
+Package: com.volcy123.wooddock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: volcy123 <v.akgul60@gmail.com>
+Depends: mobilesubstrate
+Filename: volcy123.github.io/debs/wooddock.deb
+Size: 1418204
+MD5sum: 86e68d5126ec7fb28c8ef5c2a0d06352
+SHA1: db524d209078c949f91cb07b7fdaef4c5993b950
+SHA256: e712d1f19153b0ef9549ed60f30ca3569376f1c170919737eb9386ba1ed9349d
+Section: Tweaks
+Description: Here its wood dock.Apply with Snowboard or iThemer :)
+Author: volcy123 <v.akgul60@gmail.com>
+Depiction: http://volcy123.github.io/depictions/com.volcy123.wooddock/index.html
+Name: Wood Dock
