@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkeuoMusic - iOS 6 Style Music Player</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f0f1a 100%);
+            min-height: 100vh;
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 800px;
+            text-align: center;
+        }
+        .logo {
+            width: 120px;
+            height: 120px;
+            border-radius: 24px;
+            background: linear-gradient(145deg, #3a3a5a, #2a2a4a);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 30px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+            font-size: 48px;
+        }
+        h1 {
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #fff, #a0a0a0);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .tagline {
+            font-size: 1.2rem;
+            color: #888;
+            margin-bottom: 40px;
+        }
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .feature {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 16px;
+            padding: 24px;
+            backdrop-filter: blur(10px);
+        }
+        .feature-icon {
+            font-size: 32px;
+            margin-bottom: 12px;
+        }
+        .feature h3 {
+            font-size: 1rem;
+            margin-bottom: 8px;
+        }
+        .feature p {
+            font-size: 0.85rem;
+            color: #888;
+        }
+        .download-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: linear-gradient(145deg, #4a4a6a, #3a3a5a);
+            color: #fff;
+            text-decoration: none;
+            padding: 16px 32px;
+            border-radius: 12px;
+            font-weight: 600;
+            font-size: 1.1rem;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+        .download-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.4);
+        }
+        .footer {
+            margin-top: 60px;
+            color: #555;
+            font-size: 0.85rem;
+        }
+        .footer a {
+            color: #888;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">🎵</div>
+        <h1>SkeuoMusic</h1>
+        <p class="tagline">Experience the nostalgia of iOS 6 music player on Android</p>
+        
+        <div class="features">
+            <div class="feature">
+                <div class="feature-icon">🎨</div>
+                <h3>Skeuomorphic Design</h3>
+                <p>Beautiful iOS 6 inspired interface with metallic textures</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🎧</div>
+                <h3>Spotify Integration</h3>
+                <p>Connect your Spotify account for seamless streaming</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">📝</div>
+                <h3>Synced Lyrics</h3>
+                <p>Follow along with real-time synchronized lyrics</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">📃</div>
+                <h3>Smart Playlists</h3>
+                <p>Create and manage your music collections</p>
+            </div>
+        </div>
+        
+        <a href="https://play.google.com/store/apps/details?id=com.vokki.skeuomusic" class="download-btn">
+            <span>▶</span> Get it on Google Play
+        </a>
+        
+        <div class="footer">
+            <p>© 2026 SkeuoMusic | <a href="mailto:v.akgul60@gmail.com">Contact</a> | <a href="https://sites.google.com/d/1RvtA24svu0e1mj2Vx0ndd8G_tGkm02vU/p/1KUxRpaJTGrZC9CwRy7ZTXVNrfEs8RSmR">Privacy Policy</a></p>
+        </div>
+    </div>
+</body>
+</html>
